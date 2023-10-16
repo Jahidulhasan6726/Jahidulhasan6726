@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @Jahidulhasan6726
 - 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
-- 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
+- 🌱 I’m learning SQL Server,Javascript, Jquery,AJAX,Node js, C#,ASP.NET MVC, .Net Framework,.NET Core, & Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email to hridoy1058@gmail.com
 
