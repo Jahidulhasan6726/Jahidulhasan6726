@@ -5,8 +5,9 @@ You can click the Preview link to take a look at your changes.
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>About me
 
 - 👋 Hi, I’m @Jahidulhasan6726
-- 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
-- 🌱 I’m learning SQL Server,Javascript, Jquery,AJAX,Node js, C#,ASP.NET MVC, .Net Framework,.NET Core, & Angular.
+- 👀 I’m interested in Javascript, ASP.NET & Web Application Development.
+- 🌱 I’m learning SQL Server,Javascript, Jquery,AJAX,Node js,
+-  C#, ASP.NET MVC, .Net Framework, .NET Core, & Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email to hridoy1058@gmail.com
 
