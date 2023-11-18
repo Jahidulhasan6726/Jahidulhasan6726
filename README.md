@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My GitHub Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahidulhasan6726)](https://github.com/Jahidulhasan6726/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidulhasan6726)](https://github.com/Jahidulhasan6726/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahidulhasanbd)](https://github.com/Jahidulhasanbd/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidulhasanbd)](https://github.com/Jahidulhasan6726/github-readme-stats)
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
 <div align="center">
